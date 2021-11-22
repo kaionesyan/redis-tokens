@@ -1,7 +1,7 @@
 {
   "name": "redis-tokens",
   "description": "A compact redis token manager that lets you create, fetch, update, refresh and delete tokens and their associated data",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
